@@ -21,6 +21,7 @@
         }
     ],
     "require": {
+        "ext-json": "*",
         "php": "^7.2",
         "doctrine/doctrine-bundle": "^1.12 || ^2.0",
         "doctrine/persistence": "^1.3",
